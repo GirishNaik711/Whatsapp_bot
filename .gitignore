@@ -1,0 +1,7 @@
+#Ignore data folder
+data/
+
+#Ignore output folder
+output/
+
+venv/

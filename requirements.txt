@@ -1,0 +1,7 @@
+pandas
+tqdm
+regex
+tiktoken
+torch
+transformers
+matplotlib
